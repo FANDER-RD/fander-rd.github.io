@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="122" height="122" viewBox="0 0 2000 2000">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        font-size: 50.462px;
+      }
+
+      .cls-3, .cls-5 {
+        text-anchor: middle;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: "Futura-CondensedMedium";
+      }
+
+      .cls-3 {
+        text-transform: uppercase;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-size: 214.465px;
+      }
+
+      .cls-7 {
+        font-variant: small-caps;
+      }
+    </style>
+  </defs>
+  <path d="M157.000,1345.423 L157.000,1180.283 L1843.000,1180.283 L1843.000,1345.423 L157.000,1345.423 Z" class="cls-1"/>
+  <text transform="translate(1002 1528) scale(3.31 3.3)" class="cls-2"><tspan x="0" class="cls-3">research and development</tspan></text>
+  <text transform="translate(990 1109) scale(3.31 3.3)" class="cls-4"><tspan x="0" class="cls-5"><tspan class="cls-6">FAND<tspan class="cls-7">ÈR</tspan></tspan></tspan></text>
+</svg>
