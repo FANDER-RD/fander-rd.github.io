@@ -568,6 +568,19 @@ a.readmore {
 div.section.block.blog .hover a.readmore {
 	color: #FFF;
 }
+#container {
+    display: flex; /* establish flex container */
+    flex-direction: column;
+    justify-content: center; /* align items vertically, in this case */
+    align-items: center; /* align items horizontally, in this case */
+    height: 300px;
+    /*<!--border: 1px solid black;*/
+}
+.box {
+    width: 300px;
+    margin: 5px;
+    text-align: center;
+}
 
 /******************************************************************
 	About Us
