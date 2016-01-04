@@ -138,6 +138,15 @@ h6 {
 	text-decoration: none;
 	font-size: 12px;
 }
+.cartone{
+	font-family: "Open Sans", Verdana, Arial, sans-serif;
+	line-height: 1.6em;
+	font-size: 12px;
+	color: #FFFFFF;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
 .hidden {
 	display: none;
 }
@@ -664,6 +673,14 @@ a.socialicon.dribbble {
 }
 a.socialicon.dribbble:hover {
 	background-position: -120px -30px;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 /******************************************************************
