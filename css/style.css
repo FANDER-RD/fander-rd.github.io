@@ -715,7 +715,7 @@ a.socialicon.dribbble:hover {
 	-o-transition: opacity 600ms ease;
 	-ms-transition: opacity 600ms ease;
 	transition: opacity 600ms ease;
-	background-color: #6093e7;
+	background-color: rgba(40,40,40);
 }
 .servicesitem:hover .front {
 	opacity: 0;
